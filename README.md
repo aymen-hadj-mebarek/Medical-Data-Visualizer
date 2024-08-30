@@ -38,7 +38,7 @@ bash
 
 Copier le code
 
-`git clone `
+`git clone https://github.com/aymen-hadj-mebarek/Medical-Data-Visualizer.git`
 
 ### 3. Load and run the Jupyter Notebook
 
