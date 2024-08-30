@@ -34,9 +34,6 @@ pip install pandas seaborn matplotlib numpy
 
 Clone this repository to your local machine using:
 
-bash
-
-
 `git clone https://github.com/aymen-hadj-mebarek/Medical-Data-Visualizer.git`
 
 ### 3. Load and run the Jupyter Notebook
@@ -53,9 +50,6 @@ The notebook will generate two key visualizations:
 ### 5. Running in Command Line (Optional)
 
 If you prefer to run the script directly from the command line, you can execute the following:
-
-bash
-
 
 `jupyter nbconvert --to script Medical_Data_Visualization.ipynb python Medical_Data_Visualization.py`
 
